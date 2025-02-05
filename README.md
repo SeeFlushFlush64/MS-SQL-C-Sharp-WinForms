@@ -17,23 +17,30 @@ Located in the `MyTodoListApp` folder, this project is a music artist guessing g
 - **Initial State (Directions)**  
   This is the state of the Windows Forms when the game begins. It displays instructions for the user on how to play.
 
-  ![guess-the-music-artist](https://github.com/user-attachments/assets/aaa345db-cca6-42c1-b534-686062407ecf)
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/aaa345db-cca6-42c1-b534-686062407ecf" alt="Initial State" />
+  </p>
 
 - **Input State (User Guess)**  
   When the user is prompted to input their guess for the artist, the form includes a text box for input and a submit button to check the answer.
 
-  ![guess-the-music-artist-no-input](https://github.com/user-attachments/assets/94f2c28a-3657-4991-acb3-f2e112c28155)
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/94f2c28a-3657-4991-acb3-f2e112c28155" alt="Input State" />
+  </p>
 
 - **Incorrect Guess**  
   If the user inputs an incorrect artist name, the form displays a message prompting them to try again.
 
-  ![guess-the-music-artist-incorrect](https://github.com/user-attachments/assets/4d82dcbc-aa14-4e45-b0ef-ec6b3974d68b)
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/4d82dcbc-aa14-4e45-b0ef-ec6b3974d68b" alt="Incorrect Guess" />
+  </p>
 
 - **Correct Guess**  
   When the user inputs the correct artist name, the form displays a confirmation message and the next song title.
 
-  ![guess-the-music-artist-correct](https://github.com/user-attachments/assets/69cdfd54-a2f4-4c32-98c2-a885630cf314)
-
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/69cdfd54-a2f4-4c32-98c2-a885630cf314" alt="Correct Guess" />
+  </p>
 
 #### How to Run:
 1. Clone the repository.
